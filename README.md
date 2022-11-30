@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ryanpaulrimmer1998
+- 👀 I’m interested in website design and development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on projects
